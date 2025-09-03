@@ -13,7 +13,7 @@ body {
 }
 .img {
   width: 50%;
-  height: 48vh;
+  height: 46vh;
   border-radius: 10px;
 }
 .v {
@@ -31,6 +31,7 @@ p {
 }
 h3 {
   color: hsl(212, 21%, 14%);
+  font-size: large;
 }
 
 span {
